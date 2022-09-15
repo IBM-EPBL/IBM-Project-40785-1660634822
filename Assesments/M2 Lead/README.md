@@ -1,6 +1,8 @@
 # IBM-Project-40785-1660634822
 Gas Leakage monitoring &amp; Alerting system for Industries
 
+M2 LEAD: GAYATHRI S
+
 Assigment 1:
 
 Smart Home in Tinkercad designed using 2 sensors: Ultrasonic Distance sensor & temperature sensor. 
