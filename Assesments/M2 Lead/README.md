@@ -2,8 +2,11 @@
 Gas Leakage monitoring &amp; Alerting system for Industries
 
 TEAM LEAD: BHAGAVATH KUMAR M
+
 M1 LEAD: AJITKUMAR M
+
 M2 LEAD: GAYATHRI S
+
 M3 LEAD: JABILO JOSE J
 
 Assigment 1:
