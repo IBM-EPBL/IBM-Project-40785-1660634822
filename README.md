@@ -8,11 +8,3 @@ M1 LEAD: AJITKUMAR M
 M2 LEAD: GAYATHRI S
 
 M3 LEAD: JABILO JOSE J
-
-Assigment 1:
-
-Smart Home in Tinkercad designed using 2 sensors: Ultrasonic Distance sensor & temperature sensor. 
-
-A pair of Led, Buzzer used to indicate the breach of threshold value of distance and temperature respectively. 
-
-Circuit, board file and code posted.
