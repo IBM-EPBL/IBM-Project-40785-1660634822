@@ -1,11 +1,12 @@
 #include <LiquidCrystal.h>
-LiquidCrystal lcd(5,6,8,9,10,11);
-  
-int redled = 2;
-int greenled = 3;
-int buzzer = 4;
+
+LiquidCrystal lcd (2,3,4,5,6,7);
+
+int redled = 8;
+int greenled = 9;
+int buzzer = 10;
 int sensor = A0;
-int sensorThresh = 400;
+int sensorThresh = 100;
 
 void setup()
 {
